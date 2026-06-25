@@ -1,0 +1,5 @@
+The train arrived earlier than expected this morning.
+Machine learning models improve when they see more data.
+Researchers often evaluate systems using unseen examples.
+A small mistake in preprocessing can affect the final results.
+Students submitted their projects before the deadline.

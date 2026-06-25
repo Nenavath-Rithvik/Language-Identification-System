@@ -1,0 +1,5 @@
+Le train est arrivé plus tôt que prévu ce matin.
+Les modèles d'apprentissage automatique s'améliorent avec davantage de données.
+Les chercheurs évaluent souvent les systèmes avec des exemples inconnus.
+Une petite erreur de prétraitement peut influencer les résultats finaux.
+Les étudiants ont soumis leurs projets avant la date limite.

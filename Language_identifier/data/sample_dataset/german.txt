@@ -1,0 +1,5 @@
+Der Zug kam heute Morgen früher als erwartet an.
+Modelle des maschinellen Lernens verbessern sich mit mehr Daten.
+Forscher bewerten Systeme häufig mit unbekannten Beispielen.
+Ein kleiner Fehler bei der Vorverarbeitung kann die Ergebnisse beeinflussen.
+Die Studierenden haben ihre Projekte vor der Frist eingereicht.
